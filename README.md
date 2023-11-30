@@ -8,3 +8,4 @@
 - https://www.qualtrics.com/
 - https://gleam.io/
 - https://www.surveymonkey.com/
+- https://www.zipgrade.com/
