@@ -9,7 +9,7 @@
 - https://gleam.io/
 - https://www.surveymonkey.com/
 - https://www.zipgrade.com/
-- https://signup.com/m/#/
+- https://signup.com
 - https://www.commoncoresheets.com/
 - https://airtable.com/
 
