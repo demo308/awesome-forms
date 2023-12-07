@@ -16,5 +16,7 @@
 - https://puzzlemaker.discoveryeducation.com/
 - https://www.superteacherworksheets.com/
 - https://monday.com/
+- https://www.mentimeter.com/
+- https://strawpoll.com/
 
 
