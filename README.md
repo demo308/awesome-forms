@@ -19,6 +19,8 @@
 - https://www.mentimeter.com/
 - https://strawpoll.com/
 - https://www.blooket.com/
+- https://quizizz.com/?lng=en
+- https://quizlet.com/
 
 
 
