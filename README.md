@@ -21,6 +21,7 @@
 - https://www.blooket.com/
 - https://quizizz.com/?lng=en
 - https://quizlet.com/
+- https://www.canva.com/
 
 
 
