@@ -22,6 +22,8 @@
 - https://quizizz.com/?lng=en
 - https://quizlet.com/
 - https://www.canva.com/
+- https://puzzel.org/
+- https://www.flippity.net/
 
 
 
